@@ -1,0 +1,5 @@
+Group;Redeemed vs Non-Redeemed;Sales Amount;Transactions;Sales Quantity;Customers
+TargetA;Not Redeemed;503407.53;1905;2308;1260
+TargetA;Redeemed;90668.54;304;369;171
+TargetB;Not Redeemed;455860.56;2025;2474;1291
+TargetB;Redeemed;133346.8;496;544;278
